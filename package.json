@@ -1,0 +1,23 @@
+{
+  "name": "terrestrial-api",
+  "version": "1.0.0",
+  "description": "Backend for terrestrial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ireneaili/terrestrial-api.git"
+  },
+  "author": "ireneaili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ireneaili/terrestrial-api/issues"
+  },
+  "homepage": "https://github.com/ireneaili/terrestrial-api#readme",
+  "dependencies": {
+    "aws-sdk": "^2.437.0",
+    "express": "^4.16.4"
+  }
+}
